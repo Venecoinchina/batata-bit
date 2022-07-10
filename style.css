@@ -91,7 +91,7 @@ header img {
     width: 229px;
     height: 28px;
     background-color: var(--white-off);
-    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16)
+    box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
     border: none;
     border-radius: 5px;
     font-size: 1.4rem;
@@ -112,7 +112,7 @@ main {
     background-color: var(--white-off);
 }
 .main-exchange-container {
-    width: 100%
+    width: 100%;
     height: auto;
     padding-top: 80px;
     padding-bottom: 30px;
