@@ -87,13 +87,13 @@ header img {
     top: 270px;
     display: block;
     margin-top: 35px;
-    padding: 15px;
-    width: 229px;
-    height: 28px;
+    padding: 25px;
+    width: 250px;
+    height: 68px;
     background-color: var(--white-off);
     box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
     border: none;
-    border-radius: 5px;
+    border-radius: 55px;
     font-size: 1.4rem;
     font-weight: bold;
     text-decoration: none;
