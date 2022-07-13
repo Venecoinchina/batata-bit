@@ -223,5 +223,6 @@ main {
 .currency-table--date p {
     font-size: 1rem;
     line-height: 1.5rem;
+    font-weight: 300;
     color: var(--warm-black);
 }
