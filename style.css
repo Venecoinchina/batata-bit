@@ -317,6 +317,26 @@ main {
     background-position: center;
     background-repeat: repeat;
 }
+.product-detail--card .coins {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url(./assets/icons/dollar-sign.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+.product-detail--card .info {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url(./assets/icons/check-circle.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
 .product--card-tittle {
     margin-bottom: 15px;
     font-size: 1.8rem;
