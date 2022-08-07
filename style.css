@@ -406,7 +406,7 @@ main {
 }
 .plans-container--slider {
     display: flex;
-    gap: 50px;
+    /*gap: 50px; Espacio entre las tarjetas*/
     height: 316px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
