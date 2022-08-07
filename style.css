@@ -438,6 +438,32 @@ main {
     border-radius: 8px;
     color: var(--white);
 }
+.business {
+    position: absolute;
+    width: 120px;
+    height: 31px;
+    top: -15px;
+    left: calc(50% - 60px);
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 6px;
+    background-color: var(--secondary-blue);
+    border-radius: 8px;
+    color: var(--white);
+}
+.students {
+    position: absolute;
+    width: 120px;
+    height: 31px;
+    top: -15px;
+    left: calc(50% - 60px);
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 6px;
+    background-color: var(--gray);
+    border-radius: 8px;
+    color: var(--white);
+}
 .plan-card--title {
     padding-top: 30px;
     font-size: 1.4rem;
