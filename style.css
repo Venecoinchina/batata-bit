@@ -317,6 +317,16 @@ main {
     background-position: center;
     background-repeat: repeat;
 }
+.product-detail--card .eye {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 10px;
+    background-image: url(./assets/icons/eye.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
 .product-detail--card .coins {
     display: inline-block;
     width: 20px;
