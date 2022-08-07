@@ -406,10 +406,11 @@ main {
 }
 .plans-container--slider {
     display: flex;
+    gap: 50px;
     height: 316px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
-    scroll-snap-type: proximity;
+    scroll-snap-type: x proximity;
 }
 .plans-container--card {
     position: relative;
