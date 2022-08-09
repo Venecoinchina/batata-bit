@@ -266,9 +266,6 @@ main {
     padding: 20px 10px;
     background-color: var(--warm-black);
 }
-.product-cards--container {
-    background-color: var(--warm-black);
-}
 .product-detail--batata-logo {
     position: absolute;
     width: 40px;
