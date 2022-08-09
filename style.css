@@ -267,10 +267,6 @@ main {
     background-color: var(--warm-black);
 }
 .product-cards--container {
-    width: 100%;
-    min-width:320px;
-    height: auto;
-    padding: 20px 10px;
     background-color: var(--warm-black);
 }
 .product-detail--batata-logo {
