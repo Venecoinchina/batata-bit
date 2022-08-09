@@ -1,7 +1,7 @@
 .product-cards--container {
     display: flex;
     flex-wrap: wrap;
-    width: 600px;
+    width: 300px;
     margin: 0 auto;
 }
 .plans-container--slider {
