@@ -489,7 +489,7 @@ main {
 .plan-card--ca {
     width: 150px;
     height: 48px;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: var(--soft-blue);
     border: 2px solid var(--bitcoin-orange);
     border-radius: 4px;
